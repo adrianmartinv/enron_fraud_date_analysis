@@ -19,3 +19,7 @@ done
 split -l 250000 dates.txt
 
 ```
+
+#### You can see the notebook preview at: 
+
+https://adrianmartinv.github.io/enron_fraud_date_analysis/
