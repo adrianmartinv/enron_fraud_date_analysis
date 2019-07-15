@@ -12,3 +12,10 @@ do
 	
 done
 ```
+
+#### And then split in 3 files for upload to github
+```bash
+
+split -l 250000 dates.txt
+
+```
